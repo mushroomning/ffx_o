@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jan 15 11:03:36 GMT+08:00 2024
+sqljdbc4-4.0.jar>nexus-aliyun=
+sqljdbc4-4.0.pom>nexus-aliyun=

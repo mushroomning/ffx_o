@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jan 15 11:04:35 GMT+08:00 2024
+mssql-jdbc-6.2.0.jre8.pom>nexus-aliyun=
+mssql-jdbc-6.2.0.jre8-sources.jar>nexus-aliyun=
+mssql-jdbc-6.2.0.jre8-javadoc.jar>nexus-aliyun=
+mssql-jdbc-6.2.0.jre8.jar>nexus-aliyun=
