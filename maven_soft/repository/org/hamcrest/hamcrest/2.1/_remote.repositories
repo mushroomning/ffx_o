@@ -1,6 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Jan 15 11:03:36 GMT+08:00 2024
-hamcrest-2.1-javadoc.jar>nexus-aliyun=
-hamcrest-2.1.jar>nexus-aliyun=
-hamcrest-2.1.pom>nexus-aliyun=
-hamcrest-2.1-sources.jar>nexus-aliyun=

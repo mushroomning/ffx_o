@@ -1,6 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Jan 15 11:03:36 GMT+08:00 2024
-spring-test-5.2.2.RELEASE-javadoc.jar>nexus-aliyun=
-spring-test-5.2.2.RELEASE.jar>nexus-aliyun=
-spring-test-5.2.2.RELEASE-sources.jar>nexus-aliyun=
-spring-test-5.2.2.RELEASE.pom>nexus-aliyun=

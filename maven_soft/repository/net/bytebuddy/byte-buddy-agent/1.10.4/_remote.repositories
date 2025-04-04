@@ -1,6 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Jan 15 11:03:36 GMT+08:00 2024
-byte-buddy-agent-1.10.4.jar>nexus-aliyun=
-byte-buddy-agent-1.10.4-sources.jar>nexus-aliyun=
-byte-buddy-agent-1.10.4-javadoc.jar>nexus-aliyun=
-byte-buddy-agent-1.10.4.pom>nexus-aliyun=
